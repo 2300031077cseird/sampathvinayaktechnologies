@@ -1,0 +1,42 @@
+<svg width="1200" height="860" viewBox="0 0 1200 860" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Corporate team culture illustration">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f9fcff"/>
+      <stop offset="100%" stop-color="#edf4ff"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#2f55e7"/>
+      <stop offset="100%" stop-color="#11b9ff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="860" rx="30" fill="url(#bg)"/>
+  <rect x="70" y="70" width="1060" height="720" rx="26" fill="#ffffff" stroke="#dbe8ff" stroke-width="2"/>
+
+  <rect x="130" y="132" width="940" height="130" rx="20" fill="#f6faff" stroke="#dce8ff"/>
+  <rect x="170" y="168" width="260" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="170" y="198" width="212" height="12" rx="6" fill="#aec7ff"/>
+  <rect x="466" y="168" width="262" height="18" rx="9" fill="#8ed8ff"/>
+  <rect x="466" y="198" width="220" height="12" rx="6" fill="#b9d4ff"/>
+  <rect x="760" y="168" width="270" height="18" rx="9" fill="#9cbaff"/>
+  <rect x="760" y="198" width="228" height="12" rx="6" fill="#c0d7ff"/>
+
+  <rect x="130" y="302" width="940" height="418" rx="20" fill="#f8fbff" stroke="#dce8ff"/>
+
+  <circle cx="236" cy="430" r="56" fill="#e7f0ff" stroke="#d3e3ff"/>
+  <circle cx="388" cy="430" r="56" fill="#edf6ff" stroke="#d3e3ff"/>
+  <circle cx="540" cy="430" r="56" fill="#e7f0ff" stroke="#d3e3ff"/>
+  <circle cx="692" cy="430" r="56" fill="#edf6ff" stroke="#d3e3ff"/>
+  <circle cx="844" cy="430" r="56" fill="#e7f0ff" stroke="#d3e3ff"/>
+  <circle cx="996" cy="430" r="56" fill="#edf6ff" stroke="#d3e3ff"/>
+
+  <rect x="190" y="506" width="92" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="342" y="506" width="92" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="494" y="506" width="92" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="646" y="506" width="92" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="798" y="506" width="92" height="18" rx="9" fill="url(#accent)"/>
+  <rect x="950" y="506" width="92" height="18" rx="9" fill="url(#accent)"/>
+
+  <rect x="190" y="560" width="850" height="14" rx="7" fill="#b4ccff"/>
+  <rect x="190" y="588" width="780" height="14" rx="7" fill="#c2d7ff"/>
+  <rect x="190" y="616" width="640" height="14" rx="7" fill="#cfe1ff"/>
+</svg>
